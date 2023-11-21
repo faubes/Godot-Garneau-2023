@@ -1,0 +1,127 @@
+[gd_scene load_steps=32 format=3 uid="uid://daxgoynhq7m2e"]
+
+[ext_resource type="PackedScene" uid="uid://ciu0pe8sfdebu" path="res://Track/bend.tscn" id="2_hagne"]
+[ext_resource type="PackedScene" uid="uid://ytih0c8kjtyr" path="res://Track/bend_large.tscn" id="3_2ryfa"]
+[ext_resource type="PackedScene" uid="uid://c8kyivetqtej4" path="res://Track/bend_medium.tscn" id="4_7wali"]
+[ext_resource type="PackedScene" uid="uid://cxslkfx4tru7" path="res://Track/bend_solid_large.tscn" id="5_ecf4n"]
+[ext_resource type="PackedScene" uid="uid://s7idal04lvac" path="res://Track/bend_solid_medium.tscn" id="6_y4y5q"]
+[ext_resource type="PackedScene" uid="uid://oketm2mx06r3" path="res://Track/bump_a.tscn" id="7_vs5yk"]
+[ext_resource type="PackedScene" uid="uid://erf2ci72uulc" path="res://Track/bump_b.tscn" id="8_sb6dv"]
+[ext_resource type="PackedScene" uid="uid://bso6emwotaov" path="res://Track/cross.tscn" id="9_cdh8p"]
+[ext_resource type="PackedScene" uid="uid://djyl7be2ukdae" path="res://Track/curve.tscn" id="10_m41ce"]
+[ext_resource type="PackedScene" uid="uid://dxyfuknijiadn" path="res://Track/curve_large.tscn" id="11_ak2rw"]
+[ext_resource type="PackedScene" uid="uid://ch856p5ubjesr" path="res://Track/curve_solid.tscn" id="12_tgqjd"]
+[ext_resource type="PackedScene" uid="uid://dfawebqnrb3cy" path="res://Track/curve_solid_large.tscn" id="13_npb45"]
+[ext_resource type="PackedScene" uid="uid://d2x53d062kaf5" path="res://Track/curve_wide.tscn" id="14_pkkn3"]
+[ext_resource type="PackedScene" uid="uid://ck5jadoy5fk4" path="res://Track/curve_wide_large.tscn" id="15_77wng"]
+[ext_resource type="PackedScene" uid="uid://1groikw0nkmx" path="res://Track/end_hole_rounded.tscn" id="16_wkih6"]
+[ext_resource type="PackedScene" uid="uid://gaw6xx405ila" path="res://Track/funnel.tscn" id="17_aafao"]
+[ext_resource type="PackedScene" uid="uid://b6rbqw7k64r6j" path="res://Track/funnel_long.tscn" id="18_8ry4p"]
+[ext_resource type="PackedScene" uid="uid://bg6xd04370hns" path="res://Track/helix_half_left.tscn" id="19_6icpt"]
+[ext_resource type="PackedScene" uid="uid://cv410xuk4nsbu" path="res://Track/helix_half_right.tscn" id="20_4h6pl"]
+[ext_resource type="PackedScene" uid="uid://b4tiy3l6g2412" path="res://Track/ramp_end_a.tscn" id="21_8xrrj"]
+[ext_resource type="PackedScene" uid="uid://dvb2elkm558kl" path="res://Track/slant_long_a.tscn" id="22_aoixl"]
+[ext_resource type="PackedScene" uid="uid://bt4qvmol3ba62" path="res://Track/slant_long_b.tscn" id="23_qrlxp"]
+[ext_resource type="PackedScene" uid="uid://dh6epf0ro1vl1" path="res://Track/slant_long_c.tscn" id="24_8ei30"]
+[ext_resource type="PackedScene" uid="uid://c4xtux8xewqm2" path="res://Track/split.tscn" id="25_fudks"]
+[ext_resource type="PackedScene" uid="uid://docc51yy7txkv" path="res://Track/split_double.tscn" id="26_lrtd2"]
+[ext_resource type="PackedScene" uid="uid://bbeuf21tskrmr" path="res://Track/s_curve_left.tscn" id="27_n80b1"]
+[ext_resource type="PackedScene" uid="uid://cisaw4rjg8csi" path="res://Track/s_curve_right.tscn" id="28_5ivak"]
+[ext_resource type="PackedScene" uid="uid://etsnno5hlkn4" path="res://Track/wave_a.tscn" id="29_aepei"]
+[ext_resource type="PackedScene" uid="uid://bldagjl4twiva" path="res://Track/wave_b.tscn" id="30_foycu"]
+[ext_resource type="PackedScene" uid="uid://043bdw6enhb0" path="res://Track/wave_c.tscn" id="31_xjoyx"]
+[ext_resource type="PackedScene" uid="uid://bp2icrqoxs7kl" path="res://Track/wave_solid_a.tscn" id="32_ngbe1"]
+
+[node name="GridMapScene" type="Node2D"]
+
+[node name="bend" parent="." instance=ExtResource("2_hagne")]
+
+[node name="bend_large" parent="." instance=ExtResource("3_2ryfa")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 5, 0, 0)
+
+[node name="bend_medium" parent="." instance=ExtResource("4_7wali")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 10, 0, 0)
+
+[node name="bend_solid_large" parent="." instance=ExtResource("5_ecf4n")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 15, 0, 0)
+
+[node name="bend_solid_medium" parent="." instance=ExtResource("6_y4y5q")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 20, 0, 0)
+
+[node name="bump_A" parent="." instance=ExtResource("7_vs5yk")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 5)
+
+[node name="bump_B" parent="." instance=ExtResource("8_sb6dv")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 5, 0, 5)
+
+[node name="cross" parent="." instance=ExtResource("9_cdh8p")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 10, 0, 5)
+
+[node name="curve" parent="." instance=ExtResource("10_m41ce")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 15, 0, 5)
+
+[node name="curve_large" parent="." instance=ExtResource("11_ak2rw")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 20, 0, 5)
+
+[node name="curve_solid" parent="." instance=ExtResource("12_tgqjd")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 10)
+
+[node name="curve_solid_large" parent="." instance=ExtResource("13_npb45")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 5, 0, 10)
+
+[node name="curve_wide" parent="." instance=ExtResource("14_pkkn3")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 10, 0, 10)
+
+[node name="curve_wide_large" parent="." instance=ExtResource("15_77wng")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 15, 0, 10)
+
+[node name="end_hole_rounded" parent="." instance=ExtResource("16_wkih6")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 20, 0, 10)
+
+[node name="funnel" parent="." instance=ExtResource("17_aafao")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 15)
+
+[node name="funnel_long" parent="." instance=ExtResource("18_8ry4p")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 5, 0, 15)
+
+[node name="helix_half_left" parent="." instance=ExtResource("19_6icpt")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 10, 0, 15)
+
+[node name="helix_half_right" parent="." instance=ExtResource("20_4h6pl")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 15, 0, 15)
+
+[node name="rampEnd_A" parent="." instance=ExtResource("21_8xrrj")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 20, 0, 15)
+
+[node name="slant_long_A" parent="." instance=ExtResource("22_aoixl")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 20)
+
+[node name="slant_long_B" parent="." instance=ExtResource("23_qrlxp")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 5, 0, 20)
+
+[node name="slant_long_C" parent="." instance=ExtResource("24_8ei30")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 10, 0, 20)
+
+[node name="split" parent="." instance=ExtResource("25_fudks")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 15, 0, 20)
+
+[node name="split_double" parent="." instance=ExtResource("26_lrtd2")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 20, 0, 20)
+
+[node name="s-curve_left" parent="." instance=ExtResource("27_n80b1")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 25)
+
+[node name="s-curve_right" parent="." instance=ExtResource("28_5ivak")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 5, 0, 25)
+
+[node name="wave_A" parent="." instance=ExtResource("29_aepei")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 10, 0, 25)
+
+[node name="wave_B" parent="." instance=ExtResource("30_foycu")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 15, 0, 25)
+
+[node name="wave_C" parent="." instance=ExtResource("31_xjoyx")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 20, 0, 25)
+
+[node name="wave_solid_A" parent="." instance=ExtResource("32_ngbe1")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 30)

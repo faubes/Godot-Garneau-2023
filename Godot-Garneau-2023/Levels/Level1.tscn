@@ -1,0 +1,50 @@
+[gd_scene load_steps=8 format=3 uid="uid://bppu2au7nf081"]
+
+[ext_resource type="Script" path="res://Marble/Camera.gd" id="1_16f3u"]
+[ext_resource type="PackedScene" uid="uid://c4judxm7ev31m" path="res://Deco/banner.tscn" id="4_8a672"]
+[ext_resource type="PackedScene" uid="uid://c4sqwc0akop5y" path="res://Marble/marble_high.tscn" id="15_bv0s3"]
+[ext_resource type="MeshLibrary" uid="uid://csolr1ad1h6k6" path="res://GridMap/track_meshlibrary.tres" id="17_y5qnd"]
+
+[sub_resource type="ProceduralSkyMaterial" id="ProceduralSkyMaterial_7e3s8"]
+sky_horizon_color = Color(0.64625, 0.65575, 0.67075, 1)
+ground_horizon_color = Color(0.64625, 0.65575, 0.67075, 1)
+
+[sub_resource type="Sky" id="Sky_1dtea"]
+sky_material = SubResource("ProceduralSkyMaterial_7e3s8")
+
+[sub_resource type="Environment" id="Environment_b3oc5"]
+background_mode = 2
+sky = SubResource("Sky_1dtea")
+tonemap_mode = 2
+glow_enabled = true
+
+[node name="Level1" type="Node3D"]
+
+[node name="GridMap" type="GridMap" parent="."]
+mesh_library = ExtResource("17_y5qnd")
+cell_size = Vector3(0.5, 0.25, 0.5)
+cell_center_x = false
+cell_center_y = false
+cell_center_z = false
+data = {
+"cells": PackedInt32Array(65533, 65522, 1441799, 0, 65523, 1441800, 65532, 65525, 655368, 65529, 65520, 1048585, 65535, 65518, 9, 4, 65513, 655364, 0, 65510, 1048596, 131068, 65510, 1048597, 262136, 65510, 1048596, 327668, 65510, 1048596, 393200, 65510, 1048596, 458732, 65513, 17, 720880, 65513, 655377, 983020, 65507, 655378, 1245168, 65507, 18, 1507308, 65513, 17, 1769457, 65519, 1048602, 1769463, 65525, 1048602, 1769469, 65531, 1048602, 1703938, 65534, 1441814, 1835012, 65534, 1441814, 65528, 65527, 10, 65526, 65531, 655370, 65521, 65530, 1048585, 65517, 65524, 1441801, 1, 65527, 655384, 0, 65533, 655389, 4, 65533, 655389, 0, 5, 655389, 4, 5, 655389, 2097162, 65533, 1441821, 2097168, 65534, 1441814, 2359316, 65534, 1441813, 2490392, 65534, 1441813, 2621468, 65534, 1441813)
+}
+metadata/_editor_floor_ = Vector3(0, 40, 0)
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
+environment = SubResource("Environment_b3oc5")
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="."]
+transform = Transform3D(-0.866023, -0.433016, 0.250001, 0, 0.499998, 0.866027, -0.500003, 0.749999, -0.43301, 0, 0, 0)
+shadow_enabled = true
+
+[node name="marble_high" parent="." instance=ExtResource("15_bv0s3")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1.8914, 8.4111, -1.21653)
+
+[node name="Camera3D" type="Camera3D" parent="marble_high"]
+transform = Transform3D(0.750522, -0.116861, 0.650431, -0.0486521, 0.971799, 0.230739, -0.659052, -0.204819, 0.723671, 1.33502, 2.29832, 2.37329)
+fov = 63.5172
+script = ExtResource("1_16f3u")
+
+[node name="banner" parent="." instance=ExtResource("4_8a672")]
+transform = Transform3D(0.330215, 0.713448, -0.618021, -0.942318, 0.287136, -0.172019, 0.0547293, 0.639176, 0.767111, -10.2578, -9.53674e-07, -7.07916)

@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=3 uid="uid://cpid2avk3a6h5"]
+
+[ext_resource type="PackedScene" uid="uid://c64flrj6r73ag" path="res://KenneyMarbleKit1/marble_low.glb" id="1_inamv"]
+
+[node name="marble_low" instance=ExtResource("1_inamv")]

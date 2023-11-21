@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=3 uid="uid://crqen6xpjs13s"]
+
+[ext_resource type="PackedScene" uid="uid://34mbqps3psx6" path="res://KenneyMarbleKit1/banner_hanging_high.glb" id="1_0le0c"]
+
+[node name="banner_hanging_high" instance=ExtResource("1_0le0c")]

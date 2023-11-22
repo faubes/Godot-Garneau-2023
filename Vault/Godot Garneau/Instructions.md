@@ -120,6 +120,7 @@ Suggestions pour contributions
 	- Ajouter nouveau morceaux à la `MeshLibrary`
 	- `res://GridMap/GridMapScene.tscn`
 	- ![[Grid Map Scene.png]]
+	- Export `GridMapScene` (avec nouvelles pièces) -> `MeshLibrary` (Utilisé par `GridMap` pour placer pièces)
 	- ![[Export Grid Map Scene to New Mesh Library.png]]
 	- Meilleur niveau: piste/ traque
 		- Décorations

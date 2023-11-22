@@ -114,10 +114,17 @@ Suggestions pour contributions
 	- ![[Physics Materials.png]]
 	- billes de métal, de plomb, de verre, etc.
 - Nouvelle scènes:
-	- Assemblages de morceaux pour simplifier création des pistes (départ, fin, boucles)
-	- 
+	- Nouveau Morceaux  `res://Track/`
+		- ![[New Track Piece.png]]
+		- `Mesh + Static Body + Collision Shape`
+	- Ajouter nouveau morceaux à la `MeshLibrary`
+	- `res://GridMap/GridMapScene.tscn`
+	- ![[Grid Map Scene.png]]
+	- ![[Export Grid Map Scene to New Mesh Library.png]]
 	- Meilleur niveau: piste/ traque
+		- Décorations
 - Implémentation:
-	- "fin" de la course; gagnant
+	- "fin" de la course; gagnant `Area3D`
 	- bouton pour recommencer
 	- Timer
+	- génération automatique de piste

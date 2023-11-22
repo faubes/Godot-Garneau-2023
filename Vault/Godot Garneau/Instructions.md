@@ -45,7 +45,7 @@ Les matériaux (physique et visuels) sont dans `res://Materials/Physics` et `res
 
 Les objets 3d originaux de https://www.kenney.nl/assets/marble-kit sont dans `res://KenneyMarbleKit1`
 
-Création de la scène
+Création d'une scène
 ========
 
 (instructions en dévelopement)
@@ -77,9 +77,11 @@ Les Scripts, interaction avec utilisateur
 
 
 
-Pour les aînés seulement: 
+Setup avant l'atelier ArtisTIC 2023: 
 ==========
-Pouvez-vous svp créer multiple copies du projet? Une copie pour chaque atelier. Par exemple,
+Svp créer quatre copies du projet: Une copie pour chaque atelier. 
+
+Par exemple,
 
 `C:\godot\projets\artistic-2023-1\godot-garneau-2023`
 `C:\godot\projets\artistic-2023-2\godot-garneau-2023`
@@ -88,18 +90,33 @@ Pouvez-vous svp créer multiple copies du projet? Une copie pour chaque atelier.
 
 Et si vous voulez essayer le tutoriel vous-même, creéz-vous votre propre espace séparé pour que nous puissions commencer de zéro. Merci pour votre aide!
 
-Vous pouvez contribuer à ce projet/ cet atelier. Si vous êtes vraiment avancés, vous pouvez soumettre un `pull request` directement au projet https://github.com/faubes/Godot-Garneau-2023 (et si vous avez l'ambition de travailler dans le domaine de tech -- surtout comme programmeur --  apprendre à utiliser Git c'est super important!)
+Contribuer à l'atelier Godot Garneau 2023
+===========
 
-Sinon, vous pouvez simplement m'envoyer vos suggestions par courriel (demandez à votre prof  pour mon email).
+Vous pouvez m'envoyer vos suggestions par courriel (demandez à votre prof  pour mon email).
 
-Voici quelques suggestions pour contributions:
-- Nouveau matériaux visuels pour les billes, les traques.
+Si vous êtes vraiment avancés, vous pouvez soumettre un `pull request` directement au projet
+
+https://github.com/faubes/Godot-Garneau-2023 
+
+(et si vous avez l'ambition de travailler dans le domaine de tech -- surtout comme programmeur --  apprendre à utiliser Git est indispensable)
+
+Suggestions pour contributions
+------------------
+
+- Matériaux visuels
+	- `res://Materials/Shaders/` 
+	- ![[Surface Material.png]]
+	- pour les billes, les traques, le ciel
 	- https://godotshaders.com/
-- Nouveau matériaux physiques pour les billes: 
+- Matériaux physiques 
+	- `res://Materials/Physics/`
+	- ![[Physics Materials.png]]
 	- billes de métal, de plomb, de verre, etc.
 - Nouvelle scènes:
-	- Piste/ traque
-	- Niveau
+	- Assemblages de morceaux pour simplifier création des pistes (départ, fin, boucles)
+	- 
+	- Meilleur niveau: piste/ traque
 - Implémentation:
 	- "fin" de la course; gagnant
 	- bouton pour recommencer

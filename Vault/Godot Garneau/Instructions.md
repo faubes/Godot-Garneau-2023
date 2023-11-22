@@ -43,24 +43,18 @@ Les billes sont dans le répertoire `res://Marble`
 
 Les matériaux (physique et visuels) sont dans `res://Materials/Physics` et `res://Materials/Sharders`, respectivement.
 
-Les objets 3d originaux de https://www.kenney.nl/assets/marble-kit sont dans `res://KenneyMarbleKit1`
+Les objets 3d originaux de https://www.kenney.nl/assets/marble-kit (en format `.gltf`) sont dans `res://KenneyMarbleKit1`
 
-Création d'une scène
+[[Créer une scène]]
 ========
 
-(instructions en dévelopement)
-
-Les objets 3d et leurs transformations
+[[Les Objets 3D]]
 ==========
 
-(instructions en dévelopement)
-
-Les Caméras
+[[Les Caméras et les Lumières]]
 ==========
 
-(instructions en dévelopement)
-
-Les Matériaux visuels et les Lumières
+Les Matériaux visuels
 ===========
 
 (instructions en dévelopement)

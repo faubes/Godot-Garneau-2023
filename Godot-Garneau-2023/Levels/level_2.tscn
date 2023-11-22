@@ -1,0 +1,37 @@
+[gd_scene load_steps=4 format=3 uid="uid://c6n4cf5ll5yhy"]
+
+[sub_resource type="ProceduralSkyMaterial" id="ProceduralSkyMaterial_qf0ck"]
+sky_horizon_color = Color(0.64625, 0.65575, 0.67075, 1)
+ground_horizon_color = Color(0.64625, 0.65575, 0.67075, 1)
+
+[sub_resource type="Sky" id="Sky_cnb5a"]
+sky_material = SubResource("ProceduralSkyMaterial_qf0ck")
+
+[sub_resource type="Environment" id="Environment_i38g2"]
+background_mode = 2
+sky = SubResource("Sky_cnb5a")
+tonemap_mode = 2
+glow_enabled = true
+
+[node name="Level2" type="Node3D"]
+
+[node name="Camera3D" type="Camera3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.146072, 0.97891, 3.60617)
+fov = 20.4047
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
+environment = SubResource("Environment_i38g2")
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="."]
+transform = Transform3D(-0.866023, -0.433016, 0.250001, 0, 0.499998, 0.866027, -0.500003, 0.749999, -0.43301, 0, 0, 0)
+light_color = Color(1, 1, 0.364706, 1)
+shadow_enabled = true
+
+[node name="CSGTorus3D" type="CSGTorus3D" parent="."]
+transform = Transform3D(-0.381594, 0.152185, -0.568079, 0.137896, 0.104862, 1.38035, 0.551902, 0.0790229, -0.737666, 0, 0.77, 0.485)
+inner_radius = 0.69
+sides = 20
+ring_sides = 20
+
+[node name="SpotLight3D" type="SpotLight3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 3.90052)

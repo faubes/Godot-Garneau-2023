@@ -26,9 +26,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1e2b91817dcad2be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Instructions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e110574739a5422",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Instructions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4d8591f6890fcc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Instructions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0409934eed93c44b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Instructions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f27682591df8e008",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Instructions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -155,19 +215,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d900fb1f02cfbeb8",
+  "active": "f27682591df8e008",
   "lastOpenFiles": [
+    "Créer une scène.md",
     "Instructions.md",
-    "Screenshots/New Track Piece.png",
-    "Screenshots/Export Grid Map Scene to New Mesh Library.png",
-    "Screenshots/Grid Map Scene.png",
-    "Screenshots/Surface Material.png",
-    "Screenshots/Physics Materials.png",
-    "Screenshots/Create Root Node 3D Scene.png",
-    "Screenshots/New Scene.png",
-    "Screenshots/Project Contents.png",
-    "Screenshots/Level 1.png",
-    "Screenshots/Godot Project Manager - Import Project Path.png",
+    "Les Caméras et les Lumières.md",
+    "Les Matériaux visuels.md",
+    "Les Objets 3D.md",
+    "Untitled.canvas",
+    "Pasted image 20231122140410.png",
+    "Pasted image 20231122135643.png",
+    "Pasted image 20231122135233.png",
+    "Pasted image 20231122135042.png",
+    "Pasted image 20231122134417.png",
+    "Pasted image 20231122132645.png",
+    "Pasted image 20231122132558.png",
+    "Pasted image 20231121202343.png",
+    "Screenshots/Spot Light and Parameters.png",
+    "Screenshots/Other Types of Lights.png",
     "Screenshots",
     "New folder"
   ]

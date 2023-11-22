@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "e4e8b3e82aed8b7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fb97e82e735046b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f521b4e3bd73a9f7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d900fb1f02cfbeb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Instructions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0229b72c519f4875",
+    "type": "split",
+    "children": [
+      {
+        "id": "a19c1f7aebbf1676",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "171ea325232259a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6be7b21f7443ff49",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "540de8aaed744b1b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "86feb1d68fee5978",
+    "type": "split",
+    "children": [
+      {
+        "id": "1dafb8959a5338d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ab0356a35c90ebf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Instructions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c6e0e1b0ba29ba6e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Instructions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fffd2d1559c8775f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8c0ddcd11015703f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Instructions.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d900fb1f02cfbeb8",
+  "lastOpenFiles": [
+    "Screenshots/Project Contents.png",
+    "Screenshots/Level 1.png",
+    "Screenshots/Godot Project Manager - Import Project Path.png",
+    "Pasted image 20231121202343.png",
+    "Screenshots/Godot Project Manager - Import.png",
+    "Screenshots/Godot Project Manager.png",
+    "Screenshots",
+    "New folder",
+    "Instructions.md"
+  ]
+}

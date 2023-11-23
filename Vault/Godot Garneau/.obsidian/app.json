@@ -6,5 +6,12 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheck": false,
+  "spellcheckDictionary": [
+    "Godot",
+    "ArtisTIC",
+    "Godot",
+    "Garneau"
+  ]
 }

@@ -16,67 +16,19 @@
             }
           },
           {
-            "id": "d900fb1f02cfbeb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instructions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e2b91817dcad2be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instructions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e110574739a5422",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instructions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4d8591f6890fcc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instructions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0409934eed93c44b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Les Matériaux visuels.md",
+                "file": "Instructions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,13 +155,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e110574739a5422",
+  "active": "0409934eed93c44b",
   "lastOpenFiles": [
     "Les Matériaux visuels.md",
+    "Instructions.md",
+    "répertoire du projet.md",
     "Screenshots/ancient-sewer-stonework_preview.jpg",
     "Screenshots/ancient-sewer-stonework_preview.jpg.crdownload",
     "Les Caméras et les Lumières.md",
-    "Instructions.md",
     "Screenshots/Metal Material.png",
     "Screenshots/Save Material.png",
     "Screenshots/Shiny Donut.png",

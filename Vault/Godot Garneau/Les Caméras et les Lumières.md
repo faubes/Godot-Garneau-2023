@@ -2,9 +2,8 @@
 1. Cliquer sur `jouer cette scène` (`Play Scene`)
 	1. ![[Click Play This Scene.png]]
 2. ⚠️⚠️ Écran vide 😕😕???
-	1. ![[Pasted image 20231122134417.png]]
 
-Il faut ajouter une caméra 🎥
+Il faut ajouter une caméra 🎥à notre scène pour regarder notre monde.
 
 3. Ajouter une `Camera3D`
 	1. ![[Add Camera Node.png]]
@@ -23,7 +22,7 @@ Il faut ajouter une caméra 🎥
 		1. Sélectionner la Caméra3D
 		2. Les clés W, E, R permettent de déplacer, tourner et tailler les objets
 		3. ![[New Camera Transform.png]]
-9. Clicker sur `Play Scene`
+9. Clicker sur `Play Scene`. 🎬Lumière, Caméra, Action! 🎞️
 	1. ![[Torus with Directional Light and Environment.png]]
 
 Extra
@@ -36,9 +35,9 @@ Quel est l'effet de modifier la position de ce point?
 
 ![[Aperture Controls 2.png]]
 
-Nous avons créé une lumière directionnelle (`DirectionalLight`), ce qui imite un soleil: une lumière puissante mais lointaine.
+Nous avons créé une lumière directionnelle (`DirectionalLight`) une lumière puissante mais lointaine (comme un soleil!)
 
-Il y aussi les `PointLight3D` et autres types de lumières.  
+Il y aussi les `PointLight3D` et d'autres types de lumières.  
 
 Ajouter d'autres lumières à la scène et expérimenter avec les paramètres sur les lumières.
 ![[Other Types of Lights.png]]

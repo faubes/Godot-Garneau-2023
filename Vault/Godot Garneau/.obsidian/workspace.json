@@ -69,26 +69,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instructions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f27682591df8e008",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instructions.md",
+                "file": "Les Matériaux visuels.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -215,24 +203,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f27682591df8e008",
+  "active": "3e110574739a5422",
   "lastOpenFiles": [
-    "Créer une scène.md",
-    "Instructions.md",
-    "Les Caméras et les Lumières.md",
     "Les Matériaux visuels.md",
+    "Screenshots/ancient-sewer-stonework_preview.jpg",
+    "Screenshots/ancient-sewer-stonework_preview.jpg.crdownload",
+    "Les Caméras et les Lumières.md",
+    "Instructions.md",
+    "Screenshots/Metal Material.png",
+    "Screenshots/Save Material.png",
+    "Screenshots/Shiny Donut.png",
+    "Screenshots/New StandardMaterial3D.png",
+    "Screenshots/Types of Materials.png",
+    "Screenshots/Create New Material For Torus.png",
+    "Pasted image 20231122134417.png.md",
     "Les Objets 3D.md",
+    "Créer une scène.md",
+    "Screenshots/Save Scene Dialog.png",
     "Untitled.canvas",
     "Pasted image 20231122140410.png",
     "Pasted image 20231122135643.png",
-    "Pasted image 20231122135233.png",
-    "Pasted image 20231122135042.png",
-    "Pasted image 20231122134417.png",
-    "Pasted image 20231122132645.png",
-    "Pasted image 20231122132558.png",
-    "Pasted image 20231121202343.png",
-    "Screenshots/Spot Light and Parameters.png",
-    "Screenshots/Other Types of Lights.png",
     "Screenshots",
     "New folder"
   ]

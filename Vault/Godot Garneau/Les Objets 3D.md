@@ -12,7 +12,7 @@ Dans la dernière section, nous avons créé une nouvelle `scène` avec un `obje
 	2. La `Position` permet de déplacer l'objet dans l'espace 
 	3. La `Rotation` bient, permet de tourner les `objets`
 	4. et la `Taille` (`Scale`)
-		1. Cliquer sur la petite `chaine` permet de modifier une dimension à la fois; sinon la taille change uniformement.
+		1. Cliquer sur la petite `chaine` permet de modifier une dimension à la fois; sinon la taille change uniformément.
 		2. ![[Break Scale.png]]
 4. Essayer différentes valeurs pour la `Position`, `Rotation`, et `Scale`
 5. Essayer d'autres objets du système `CSG`: un cylindre, boîte.

@@ -54,10 +54,9 @@ Les objets 3d originaux de https://www.kenney.nl/assets/marble-kit (en format `.
 [[Les Caméras et les Lumières]]
 ==========
 
-Les Matériaux visuels
+[[Les Matériaux visuels]]
 ===========
 
-(instructions en dévelopement)
 
 Les Matériaux physiques et la simulation
 ===========

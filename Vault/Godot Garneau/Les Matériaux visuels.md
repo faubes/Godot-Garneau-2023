@@ -1,8 +1,8 @@
 Pour changer l'apparence des `objets` 3D, nous spécifions un `matériel` (`visuel`).
 
-1. Cliquer sur le `CSGTorus3D` et ensuite sur la boîte de l'inspecteur pour le `Material`
+1. Cliquer sur le `CSGTorus3D` et ensuite, dans la boîte de l'inspecteur, cliquer sur le `Material` `<Empty>`
 	1. ![[Create New Material For Torus.png]]
-2. Il y a trois sortes de `Material`. (voir `Extra`)
+2. Il y a trois sortes de `Material` (voir [[#^Extra]])
 	1. Cliquer sur `New StandardMaterial3D`
 	2. ![[Types of Materials.png]]
 	3. Cliquer de nouveau dans la boîte pour ouvrir le `Material`
@@ -18,7 +18,7 @@ Pour changer l'apparence des `objets` 3D, nous spécifions un `matériel` (`visu
 4. Sauvegarder le nouveau `Material` pour le réutiliser avec plusieurs objets.
 	1. ![[Save Material.png]]
 
-Extra
+Extra ^Extra
 -------
 
 Il y a trois types de `Material` dans Godot:

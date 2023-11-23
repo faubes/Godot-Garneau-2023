@@ -20,6 +20,11 @@ Dans la dernière section, nous avons créé une nouvelle `scène` avec un `obje
 	1. Observez ce qu'il se passe si nous modifions le `Transform` de la `Racine`
 	2. Tous les enfants sont aussi déplacés!
 
+[[Les Caméras et les Lumières]]
+
+Extra
+====
+
 
 Les objets `CSG` peuvent être combinés pour créer des objets plus complexe, voir: 
 https://docs.godotengine.org/en/stable/tutorials/3d/csg_tools.html

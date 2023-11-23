@@ -25,3 +25,5 @@
 		2. À noter: les `propriétés` des `parents` sont propagées aux `enfants`
 			1. C'est-à-dire: si nous modifions la position de la `racine`, le donut sera aussi déplacé. Plus de détails plus loin.
 	4. Sauvegarder la Scène! `CTRL-S` ou avec le Menu!
+
+[[Les Objets 3D]]

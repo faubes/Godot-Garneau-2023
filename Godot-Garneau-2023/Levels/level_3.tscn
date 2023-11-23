@@ -1,4 +1,4 @@
-[gd_scene load_steps=5 format=3 uid="uid://pkwegpshka7g"]
+[gd_scene load_steps=6 format=3 uid="uid://pkwegpshka7g"]
 
 [sub_resource type="ProceduralSkyMaterial" id="ProceduralSkyMaterial_62tpr"]
 sky_horizon_color = Color(0.64625, 0.65575, 0.67075, 1)
@@ -17,6 +17,11 @@ ssil_enabled = true
 sdfgi_enabled = true
 glow_enabled = true
 
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_yyqqk"]
+emission_enabled = true
+emission = Color(0.72549, 0.219608, 0.623529, 1)
+emission_energy_multiplier = 6.01
+
 [sub_resource type="StandardMaterial3D" id="StandardMaterial3D_1ferw"]
 albedo_color = Color(1, 0.952941, 0.996078, 1)
 metallic = 0.93
@@ -34,20 +39,25 @@ shadow_enabled = true
 [node name="WorldEnvironment" type="WorldEnvironment" parent="."]
 environment = SubResource("Environment_xkh4k")
 
-[node name="CSGCylinder3D" type="CSGCylinder3D" parent="."]
-transform = Transform3D(0.861753, -1.12409, 0.323829, -0.00420421, -0.666171, -1.07515, 0.881846, 1.0953, -0.321577, 1.77431, -1.49012e-08, 0.0523353)
+[node name="RigidBody3d" type="RigidBody3D" parent="."]
+
+[node name="CSGCylinder3D" type="CSGCylinder3D" parent="RigidBody3d"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, -5.96046e-08, 1, 0, 0, 0)
 operation = 2
 radius = 0.169
 height = 0.946
+material = SubResource("StandardMaterial3D_yyqqk")
 
-[node name="CSGTorus3D" type="CSGTorus3D" parent="."]
+[node name="Camera3D" type="Camera3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 2.90913)
+fov = 45.0
+
+[node name="RigidBody3D" type="RigidBody3D" parent="."]
+
+[node name="CSGTorus3D" type="CSGTorus3D" parent="RigidBody3D"]
 transform = Transform3D(0.876762, 0.0255993, -0.821046, 0.853246, -0.327208, 0.812826, -0.153453, -1.67311, -0.171525, -0.177572, 0, 0)
 inner_radius = 0.25
 outer_radius = 0.6
 sides = 20
 ring_sides = 20
 material = SubResource("StandardMaterial3D_1ferw")
-
-[node name="Camera3D" type="Camera3D" parent="."]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 2.90913)
-fov = 45.0

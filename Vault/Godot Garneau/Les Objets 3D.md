@@ -3,7 +3,7 @@ Et les transformations
 
 Dans la dernière section, nous avons créé une nouvelle `scène` avec un `objet` de type `CSGTorus3D`.
 
-1. Cliquer/sélectioner le `CSGTorus3D`
+1. Sélectioner le `CSGTorus3D`
 2. L'`Inspecteur` permet de modifier les `propriétés` (`properties`) du `tore`
 	1. ![[Torus Properties and Transform.png]]
 	2. Essayer différentes valeurs pour ces paramètres.
@@ -12,12 +12,12 @@ Dans la dernière section, nous avons créé une nouvelle `scène` avec un `obje
 	2. La `Position` permet de déplacer l'objet dans l'espace 
 	3. La `Rotation` bient, permet de tourner les `objets`
 	4. et la `Taille` (`Scale`)
-		1. Cliquer sur la petite `chaine` permet de modifier une dimension à la fois; sinon la taille change uniformément.
+		1. Cliquer sur la l'icône de la `chaine` permet de modifier une dimension à la fois; sinon la taille change uniformément.
 		2. ![[Break Scale.png]]
 4. Essayer différentes valeurs pour la `Position`, `Rotation`, et `Scale`
 5. Essayer d'autres objets du système `CSG`: un cylindre, boîte.
 6. Attention: les transformations des objets sont relatives aux parents:
-	1. Observez ce qu'il se passe si nous modifions le `Transform` de la `Racine`
+	1. Observez ce qu'il arrive si nous modifions la [[Transformation]] de la [[racine]]
 	2. Tous les enfants sont aussi déplacés!
 
 [[Les Caméras et les Lumières]]

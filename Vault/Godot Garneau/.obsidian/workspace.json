@@ -4,31 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2fb97e82e735046b",
+        "id": "1f9a5ba818d789dc",
         "type": "tabs",
         "children": [
           {
-            "id": "f521b4e3bd73a9f7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "0409934eed93c44b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Créer une scène.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e74a9a51f098832",
+            "id": "efb4b178e4944844",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -39,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,27 +146,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e74a9a51f098832",
+  "active": "efb4b178e4944844",
   "lastOpenFiles": [
     "Les Matériaux visuels.md",
     "Les Matériaux physiques et la simulation.md",
     "Les Caméras et les Lumières.md",
-    "Créer une scène.md",
     "Instructions.md",
+    "Créer une scène.md",
+    "Définitions/Transformation.md",
+    "Les Objets 3D.md",
+    "Définitions/scène.md",
+    "Définitions",
+    "Définitions/racine.md",
+    "Définitions/objet.md",
+    "Définitions/arbre.md",
+    "Screenshots/rooted-tree-graph.png",
+    "Screenshots/rooted-tree-graph.png.crdownload",
     "Screenshots/Choose RigidBody3D Node.png",
     "Pasted image 20231122200940.png",
     "Screenshots/New RigidBody3D Parent for Torus.png",
     "Screenshots/Reparent Torus to RigidBody3D.png",
     "Screenshots/Start Adding Phsyics.png",
     "^extra.md",
-    "Les Objets 3D.md",
     "répertoire du projet.md",
     "Screenshots/ancient-sewer-stonework_preview.jpg",
     "Screenshots/ancient-sewer-stonework_preview.jpg.crdownload",
     "Screenshots/Metal Material.png",
     "Screenshots/Save Material.png",
     "Screenshots/Shiny Donut.png",
-    "Screenshots/New StandardMaterial3D.png",
     "Pasted image 20231122134417.png.md",
     "Untitled.canvas",
     "Screenshots",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Créer une scène.md",
+                "file": "Les Collisions et la simulation physique.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Créer une scène.md",
+                "file": "Les Collisions et la simulation physique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Créer une scène.md",
+                "file": "Les Collisions et la simulation physique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Créer une scène.md"
+                "file": "Les Collisions et la simulation physique.md"
               }
             }
           }
@@ -158,19 +158,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "171ea325232259a6",
+  "active": "31b280cfe43beed7",
   "lastOpenFiles": [
-    "Instructions.md",
     "Les Caméras et les Lumières.md",
-    "Les Collisions et la simulation physique.md",
     "Les Matériaux visuels.md",
     "Les Objets 3D.md",
+    "Créer une scène.md",
+    "Instructions.md",
+    "Les Collisions et la simulation physique.md",
     "Pasted image 20231123221628.png",
     "Screenshots/Les Collisions et la simulation physique/Donut on the Floor.png",
     "Screenshots/Les Collisions et la simulation physique/Create Collision Sibling.png",
     "Screenshots/Les Collisions et la simulation physique/New StaticBody3D Parent for Floor.png",
     "Screenshots/Les Collisions et la simulation physique/Reparent Floor to New Node.png",
-    "Créer une scène.md",
     "Screenshots/Les Collisions et la simulation physique/Add BoxMesh for Floor.png",
     "Screenshots/Les Collisions et la simulation physique/Falling Donut.png",
     "Screenshots/Les Collisions et la simulation physique/New RigidBody3D Parent for Donut.png",

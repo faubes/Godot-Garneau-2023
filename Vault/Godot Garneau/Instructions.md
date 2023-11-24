@@ -55,7 +55,7 @@ Organisation du projet
 [[Les Matériaux visuels]]
 ===========
 
-[[Les Matériaux physiques et la simulation]]
+[[Les Collisions et la simulation physique]]
 ===========
 
 Les Scripts, interaction avec utilisateur

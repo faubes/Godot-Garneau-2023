@@ -13,7 +13,7 @@ data = PackedVector3Array(-1.2398, 0.3125, 0.545, -1.3012, 0.5, 0.5572, -1.35, 0
 shape = SubResource("ConcavePolygonShape3D_lug43")
 
 [node name="Point1" type="Node3D" parent="bend_large2" index="1"]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1.5, 0, 2.5)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1.5, 0.25, 2.5)
 
 [node name="Point2" type="Node3D" parent="bend_large2" index="2"]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1.5, 0, -2.5)

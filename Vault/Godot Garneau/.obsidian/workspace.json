@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Caméras et lumières.md",
+                "file": "Objets 3D.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Caméras et lumières.md",
+                "file": "Objets 3D.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Caméras et lumières.md",
+                "file": "Objets 3D.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Caméras et lumières.md"
+                "file": "Objets 3D.md"
               }
             }
           }
@@ -146,14 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "171ea325232259a6",
+  "active": "0b7f9c53e5f3e7f6",
   "lastOpenFiles": [
-    "Collisions et simulation physique.md",
-    "Objets 3D.md",
     "Matériaux visuels.md",
-    "Caméras et lumières.md",
     "Instructions.md",
     "Créer une scène.md",
+    "Collisions et simulation physique.md",
+    "Caméras et lumières.md",
+    "Objets 3D.md",
     "Pasted image 20231123221628.png",
     "Screenshots/Les Collisions et la simulation physique/Donut on the Floor.png",
     "Screenshots/Les Collisions et la simulation physique/Create Collision Sibling.png",

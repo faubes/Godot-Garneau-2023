@@ -1,4 +1,3 @@
-
 1. Cliquer sur `jouer cette scène` (`Play Scene`)
 	1. ![[Click Play This Scene.png]]
 2. ⚠️⚠️ Écran vide 😕😕???
@@ -7,10 +6,10 @@ Il faut ajouter une caméra 🎥 à notre scène pour regarder notre monde virtu
 
 3. Ajouter une `Camera3D`
 	1. Cliquer `+` pour ajouter un [[objet]]
-	2. Taper `Camera` dans la barre de recherche
+	2. Taper camera dans la barre de recherche
 	3. Sélectionner `Camera3D`
 	4. ![[Add Camera Node.png]]
-4. Une Caméra est ajoutée à notre scène.
+4. Une caméra est ajoutée à notre scène.
 	1. ![[New Camera.png]]
 5. Cliquer encore sur `Play Scene` pour tester.
 	4. ![[New Camera View.png]]

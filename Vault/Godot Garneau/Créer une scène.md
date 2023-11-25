@@ -30,4 +30,4 @@
 
 💾 Sauvegarder la Scène ! `CTRL-S` ou avec le Menu ! 
 
-[[Les Objets 3D]]
+[[Objets 3D]]

@@ -10,7 +10,7 @@ Pour changer l'apparence des [[objet|objets]] 3D, nous spécifions un [[matérie
 3. Il y a beaucoup de paramètres! Vous pouvez modifier, entre autres :
 	1. La `transparence` (`Transparency`)
 	2. La couleur (`Albedo`)
-	3. La réflection (`Metallic`)
+	3. La réflectivité (`Metallic`)
 	4. La luminescence (`Emission`)
 	5. Ex: Métal brilliant
 	6. ![[Shiny Donut.png]]
@@ -28,13 +28,13 @@ Il y a trois types de `Material` dans Godot:
 
 Nous avons vu que `StandardMaterial3D` est une collection de paramètres que nous pouvons modifier pour changer l'apparence des objets. 
 
-Voir https://docs.godotengine.org/en/stable/tutorials/3d/standard_material_3d.html pour plus d'info sur les paramètres plus avancés, tel que les `Normal Map`, `Ambient Occlusion`.
+Voir https://docs.godotengine.org/en/stable/tutorials/3d/standard_material_3d.html pour plus d'info sur les paramètres plus avancés, tel que les `Normal Map`, `Ambient Occlusion`, et les matériaux `ORMMaterial3D`.
 
 Voir https://freepbr.com/ pour des exemples de textures pour des matériaux avancés.
 
 https://freepbr.com/materials/ancient-sewer-stonework/
 ![[ancient-sewer-stonework_preview.jpg]]
 
-Le troisième type de matériel, les `ShaderMaterial3D`, nous permettent d'écrire un programme (un `shader`) pour calculer l'apparence d'un pixel.
+Le troisième type de matériel, les `ShaderMaterial3D`, nous permettent d'écrire un programme (un `shader`) pour calculer l'apparence de chaque pixel.
 
 Voir https://godotshaders.com/ pour des exemples de `Shader`.

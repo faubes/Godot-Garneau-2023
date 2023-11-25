@@ -46,23 +46,20 @@ Organisation du projet
 [[Créer une scène]]
 ========
 
-[[Les Objets 3D]]
+[[Objets 3D]]
 ==========
 
-[[Les Caméras et les Lumières]]
+[[Caméras et lumières]]
 ==========
 
-[[Les Matériaux visuels]]
+[[Matériaux visuels]]
 ===========
 
-[[Les Collisions et la simulation physique]]
+[[Collisions et simulation physique]]
 ===========
 
 Les Scripts, interaction avec utilisateur
 ===========
-
-
-
 
 Setup avant l'atelier ArtisTIC 2023 : 
 ==========

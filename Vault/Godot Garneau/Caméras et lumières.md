@@ -33,7 +33,7 @@ Il faut ajouter une caméra 🎥 à notre scène pour regarder notre monde virtu
 13. Cliquer sur `Play Scene`. 🎬 Lumière, Caméra, Action ! 🎞️
 	1. ![[Torus with Directional Light and Environment.png]]
 
-[[Les Matériaux visuels]]
+[[Matériaux visuels]]
 
 
 Extra

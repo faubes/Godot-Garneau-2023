@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b24b5344df2084eb",
+        "id": "38803d619550b1b3",
         "type": "tabs",
         "children": [
           {
-            "id": "31b280cfe43beed7",
+            "id": "0b7f9c53e5f3e7f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Les Collisions et la simulation physique.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a4e81cc7802ce15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Créer une scène.md",
+                "file": "Caméras et lumières.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Les Collisions et la simulation physique.md",
+                "file": "Caméras et lumières.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Les Collisions et la simulation physique.md",
+                "file": "Caméras et lumières.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Les Collisions et la simulation physique.md"
+                "file": "Caméras et lumières.md"
               }
             }
           }
@@ -158,14 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31b280cfe43beed7",
+  "active": "171ea325232259a6",
   "lastOpenFiles": [
-    "Les Caméras et les Lumières.md",
-    "Les Matériaux visuels.md",
-    "Les Objets 3D.md",
-    "Créer une scène.md",
+    "Collisions et simulation physique.md",
+    "Objets 3D.md",
+    "Matériaux visuels.md",
+    "Caméras et lumières.md",
     "Instructions.md",
-    "Les Collisions et la simulation physique.md",
+    "Créer une scène.md",
     "Pasted image 20231123221628.png",
     "Screenshots/Les Collisions et la simulation physique/Donut on the Floor.png",
     "Screenshots/Les Collisions et la simulation physique/Create Collision Sibling.png",

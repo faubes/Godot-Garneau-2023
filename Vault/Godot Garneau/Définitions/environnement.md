@@ -1,0 +1,1 @@
+Paramètres globaux pour modifier l'apparence visuelle d'une scène.

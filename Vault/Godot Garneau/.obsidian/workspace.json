@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Matériaux visuels.md",
+                "file": "Définitions/arbre.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Matériaux visuels.md",
+                "file": "Définitions/arbre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Matériaux visuels.md",
+                "file": "Définitions/arbre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Matériaux visuels.md"
+                "file": "Définitions/arbre.md"
               }
             }
           }
@@ -172,13 +172,19 @@
   },
   "active": "8137b944cb9af276",
   "lastOpenFiles": [
+    "Définitions/corps physique.md",
+    "Définitions/inspecteur.md",
+    "Définitions/propriétés.md",
+    "8. Formes de collision.md",
+    "7. Simulation physique.md",
+    "Screenshots/Definitions/CapsuleCollision.png",
+    "Définitions/forme de collision.md",
+    "Définitions/corps rigide.md",
+    "6. Matériaux visuels.md",
     "3. Ajouter un modèle 3D.md",
     "4. Objets 3D.md",
     "Screenshots/Les Matériaux visuels/How To Save Material.png",
-    "6. Matériaux visuels.md",
     "9. Nouveaux morceaux.md",
-    "8. Formes de collision.md",
-    "7. Simulation physique.md",
     "5. Caméras et lumières.md",
     "2. Créer une scène.md",
     "1. Instructions.md",
@@ -186,8 +192,6 @@
     "New Text Document.txt",
     "Définitions/objet.md",
     "Contribuer au projet.md",
-    "Définitions/forme de collision.md",
-    "Définitions/corps rigide.md",
     "Définitions/matériel.md",
     "Définitions/environnement.md",
     "Définitions/transformation.md",
@@ -204,13 +208,10 @@
     "Définitions/lumière.md",
     "Screenshots/Definitions/Lights.png",
     "Définitions/jouer cette scène.md",
-    "Définitions/Godot.md",
     "Screenshots/Definitions/PlaySceneLarge.png",
     "Screenshots/Definitions/PlayScene.png",
-    "Définitions/caméra.md",
     "Screenshots/Definitions/Camera.png",
     "Screenshots/Definitions/Camera Nodes.png",
-    "Screenshots/Nouveaux morceaux/New Track Piece.png",
     "Screenshots/Nouveaux morceaux",
     "Screenshots/New folder",
     "Screenshots/Les Collisions et la simulation physique",

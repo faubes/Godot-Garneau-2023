@@ -8,13 +8,7 @@ Dans [[Godot]], il y a trois sortes de corps physiques :
 2. `RigidBody3D`
 3. `CharacterBody3D`
 
-Les corps physiques requièrent une `forme de collision` (`CollisionShape3D`). 
-
-Ces formes sont distinctes du [[modèle 3D]] d'un [[objet]]. 
-
-Par exemple, nous substituons souvent une capsule pour la forme de collision d'un personnage :
-
-![[CapsuleCollision.png]]
+Les corps physiques requièrent une [[forme de collision]] (`CollisionShape3D`). 
 ## corps statique
 
 Un [[objet]] qui ne bouge pas. Par exemple, un arbre, une maison, le plancher. 

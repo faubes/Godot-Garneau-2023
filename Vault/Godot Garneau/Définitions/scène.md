@@ -3,6 +3,7 @@
 Un [[arbre]] d'[[objet]]s. 
 
 C'est-à-dire, une composition hiérarchique d'[[objet]]s, chaque [[objet]] ayant un parent distinct, et ayant une [[racine]].
+
 ![[Scene.png]]
 ***Exemple d'une scène dans Godot***
 

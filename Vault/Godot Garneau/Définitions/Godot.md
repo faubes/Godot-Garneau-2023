@@ -1,4 +1,3 @@
-
 Un moteur de jeu gratuit :
 
 https://godotengine.org/
@@ -10,3 +9,5 @@ Ces outils permettent de :
 - animer des personnages
 - simuler les forces physiques
 - implémenter la logique, les règles d'un jeu
+
+Remarque : le nom vient de la pièce de théâtre `Waiting For Godot`, parce que nous attendons toujours la prochaine version du logiciel.

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Définitions/scène.md",
+                "file": "Définitions/matériel.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Définitions/scène.md",
+                "file": "Définitions/matériel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Définitions/scène.md",
+                "file": "Définitions/matériel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Définitions/scène.md"
+                "file": "Définitions/matériel.md"
               }
             }
           }
@@ -184,14 +184,19 @@
   },
   "active": "33ecff2e6ce8e82d",
   "lastOpenFiles": [
+    "Screenshots/Definitions/PhysicsMaterial.png",
+    "Définitions/scène.md",
+    "Définitions/inspecteur.md",
+    "Définitions/Godot.md",
+    "Définitions/environnement.md",
+    "Screenshots/Definitions/WorldEnvironment Parameters.png",
+    "Définitions/corps physique.md",
+    "Définitions/caméra.md",
+    "Définitions/arbre.md",
     "Screenshots/Definitions/Scene.png",
     "3. Ajouter un modèle 3D.md",
     "2. Créer une scène.md",
     "1. Instructions.md",
-    "Définitions/scène.md",
-    "Définitions/arbre.md",
-    "Définitions/corps physique.md",
-    "Définitions/inspecteur.md",
     "Définitions/propriétés.md",
     "8. Formes de collision.md",
     "7. Simulation physique.md",
@@ -208,7 +213,6 @@
     "Définitions/objet.md",
     "Contribuer au projet.md",
     "Définitions/matériel.md",
-    "Définitions/environnement.md",
     "Définitions/transformation.md",
     "Screenshots/Definitions/Transform.png",
     "Définitions/modèle 3D.md",
@@ -217,13 +221,9 @@
     "Screenshots/Definitions/Tree.png",
     "Screenshots/Definitions/Tree.png.crdownload",
     "Définitions/racine.md",
-    "objets.md",
-    "enfant.md",
     "Screenshots/Definitions/Lights.png",
     "Screenshots/Definitions/PlaySceneLarge.png",
     "Screenshots/Definitions/PlayScene.png",
-    "Screenshots/Definitions/Camera.png",
-    "Screenshots/Definitions/Camera Nodes.png",
     "Screenshots/Nouveaux morceaux",
     "Screenshots/New folder",
     "Screenshots/Les Collisions et la simulation physique",

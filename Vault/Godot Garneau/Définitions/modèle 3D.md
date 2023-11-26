@@ -1,4 +1,4 @@
-`3D Model, MeshInstance3D
+`3D Model, MeshInstance3D`
 
 Les logiciels 3D représentent les objets avec un modèle : une collection de triangles.
 

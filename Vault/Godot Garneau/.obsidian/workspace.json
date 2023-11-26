@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Définitions/matériel.md",
+                "file": "Définitions/modèle 3D.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Définitions/matériel.md",
+                "file": "Définitions/modèle 3D.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Définitions/matériel.md",
+                "file": "Définitions/modèle 3D.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Définitions/matériel.md"
+                "file": "Définitions/modèle 3D.md"
               }
             }
           }
@@ -184,6 +184,7 @@
   },
   "active": "33ecff2e6ce8e82d",
   "lastOpenFiles": [
+    "Définitions/matériel.md",
     "Screenshots/Definitions/PhysicsMaterial.png",
     "Définitions/scène.md",
     "Définitions/inspecteur.md",
@@ -212,7 +213,6 @@
     "New Text Document.txt",
     "Définitions/objet.md",
     "Contribuer au projet.md",
-    "Définitions/matériel.md",
     "Définitions/transformation.md",
     "Screenshots/Definitions/Transform.png",
     "Définitions/modèle 3D.md",
@@ -223,7 +223,6 @@
     "Définitions/racine.md",
     "Screenshots/Definitions/Lights.png",
     "Screenshots/Definitions/PlaySceneLarge.png",
-    "Screenshots/Definitions/PlayScene.png",
     "Screenshots/Nouveaux morceaux",
     "Screenshots/New folder",
     "Screenshots/Les Collisions et la simulation physique",

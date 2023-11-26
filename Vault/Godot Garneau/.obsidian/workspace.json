@@ -4,57 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2c44921206bc55bc",
+        "id": "960665baa9003b98",
         "type": "tabs",
         "children": [
           {
-            "id": "d272d5a3227c7ad4",
+            "id": "d9ade8d377dfd2ce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Instructions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8137b944cb9af276",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Ajouter un modèle 3D.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33ecff2e6ce8e82d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Définitions/modèle 3D.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "153b28224731a907",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Screenshots/Les Matériaux visuels/How To Save Material.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Définitions/modèle 3D.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Définitions/modèle 3D.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Définitions/modèle 3D.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -182,8 +139,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33ecff2e6ce8e82d",
+  "active": "d9ade8d377dfd2ce",
   "lastOpenFiles": [
+    "Screenshots/Les Matériaux visuels/How To Save Material.png",
+    "1. Instructions.md",
+    "9. Nouveaux morceaux.md",
+    "Screenshots/Nouveaux morceaux/GridMap Controls.png",
+    "8. Formes de collision.md",
+    "forme de collision.md",
+    "Définitions/modèle 3D.md",
     "Définitions/matériel.md",
     "Screenshots/Definitions/PhysicsMaterial.png",
     "Définitions/scène.md",
@@ -197,17 +161,13 @@
     "Screenshots/Definitions/Scene.png",
     "3. Ajouter un modèle 3D.md",
     "2. Créer une scène.md",
-    "1. Instructions.md",
     "Définitions/propriétés.md",
-    "8. Formes de collision.md",
     "7. Simulation physique.md",
     "Screenshots/Definitions/CapsuleCollision.png",
     "Définitions/forme de collision.md",
     "Définitions/corps rigide.md",
     "6. Matériaux visuels.md",
     "4. Objets 3D.md",
-    "Screenshots/Les Matériaux visuels/How To Save Material.png",
-    "9. Nouveaux morceaux.md",
     "5. Caméras et lumières.md",
     "publish.css",
     "New Text Document.txt",
@@ -215,14 +175,11 @@
     "Contribuer au projet.md",
     "Définitions/transformation.md",
     "Screenshots/Definitions/Transform.png",
-    "Définitions/modèle 3D.md",
     "Screenshots/Definitions/220px-Low-poly_hand-painted_3D_house_rotating.gif",
     "Screenshots/Definitions/220px-Low-poly_hand-painted_3D_house_rotating.gif.crdownload",
     "Screenshots/Definitions/Tree.png",
     "Screenshots/Definitions/Tree.png.crdownload",
-    "Définitions/racine.md",
     "Screenshots/Definitions/Lights.png",
-    "Screenshots/Definitions/PlaySceneLarge.png",
     "Screenshots/Nouveaux morceaux",
     "Screenshots/New folder",
     "Screenshots/Les Collisions et la simulation physique",

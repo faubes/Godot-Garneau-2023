@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "526011bc766ff7c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. Simulation physique.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d272d5a3227c7ad4",
             "type": "leaf",
             "state": {
@@ -32,48 +20,12 @@
             }
           },
           {
-            "id": "a484ec18941230b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Créer une scène.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "918537e85f7123f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Créer une scène.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8137b944cb9af276",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Ajouter un modèle 3D.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2847baf032d4d57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Objets 3D.md",
+                "file": "6. Matériaux visuels.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,52 +35,14 @@
             "id": "153b28224731a907",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "9. Nouveaux morceaux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "588b3d79a734ba5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Définitions/forme de collision.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4015b029f48c205",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Définitions/corps rigide.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d2f0f7694cc19a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Définitions/matériel.md",
-                "mode": "source",
-                "source": false
+                "file": "Screenshots/Les Matériaux visuels/How To Save Material.png"
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9. Nouveaux morceaux.md",
+                "file": "6. Matériaux visuels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9. Nouveaux morceaux.md",
+                "file": "6. Matériaux visuels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9. Nouveaux morceaux.md"
+                "file": "6. Matériaux visuels.md"
               }
             }
           }
@@ -256,19 +170,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "171ea325232259a6",
+  "active": "8137b944cb9af276",
   "lastOpenFiles": [
-    "publish.css",
-    "New Text Document.txt",
+    "3. Ajouter un modèle 3D.md",
+    "4. Objets 3D.md",
+    "Screenshots/Les Matériaux visuels/How To Save Material.png",
+    "6. Matériaux visuels.md",
+    "9. Nouveaux morceaux.md",
     "8. Formes de collision.md",
     "7. Simulation physique.md",
-    "6. Matériaux visuels.md",
     "5. Caméras et lumières.md",
-    "4. Objets 3D.md",
-    "3. Ajouter un modèle 3D.md",
     "2. Créer une scène.md",
     "1. Instructions.md",
-    "9. Nouveaux morceaux.md",
+    "publish.css",
+    "New Text Document.txt",
     "Définitions/objet.md",
     "Contribuer au projet.md",
     "Définitions/forme de collision.md",
@@ -296,14 +211,12 @@
     "Screenshots/Definitions/Camera.png",
     "Screenshots/Definitions/Camera Nodes.png",
     "Screenshots/Nouveaux morceaux/New Track Piece.png",
-    "Screenshots/Nouveaux morceaux/Grid Map Scene.png",
     "Screenshots/Nouveaux morceaux",
     "Screenshots/New folder",
     "Screenshots/Les Collisions et la simulation physique",
     "Screenshots/Les Matériaux visuels",
     "Screenshots/Les Caméras et les Lumières",
     "Screenshots/Les Objets 3D",
-    "Screenshots/Definitions",
     "Untitled.canvas"
   ]
 }

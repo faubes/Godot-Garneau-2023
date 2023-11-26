@@ -8,14 +8,14 @@ Suggestions pour contributions
 - Matériaux visuels
 	- `res://Materials/Shaders/` 
 	![[Surface Material.png]]
-	- pour les billes, les traques, le ciel
+	- pour les billes, les pistes, le ciel
 	- https://godotshaders.com/
 - Matériaux physiques 
 	- `res://Materials/Physics/`
 	![[Physics Materials.png]]
 	- billes de métal, de plomb, de verre, etc.
 - Nouvelles scènes:
-	- Meilleur niveau : piste/ traque
+	- Meilleur niveau : piste
 	- Décorations
 - Implémentation :
 	- "fin" de la course ; `Area3D`

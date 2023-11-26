@@ -1,0 +1,6 @@
+[gd_resource type="ShaderMaterial" load_steps=2 format=3 uid="uid://d3qaibavxubl1"]
+
+[ext_resource type="Shader" path="res://Materials/Shaders/squareish.gdshader" id="1_rmwjv"]
+
+[resource]
+shader = ExtResource("1_rmwjv")

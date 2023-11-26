@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Définitions/corps physique.md",
+                "file": "8. Formes de collision.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Définitions/corps physique.md",
+                "file": "8. Formes de collision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Définitions/corps physique.md",
+                "file": "8. Formes de collision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Définitions/corps physique.md"
+                "file": "8. Formes de collision.md"
               }
             }
           }
@@ -162,8 +162,8 @@
   },
   "active": "206e83ddc860fe13",
   "lastOpenFiles": [
-    "Définitions/forme de collision.md",
     "Définitions/corps physique.md",
+    "Définitions/forme de collision.md",
     "8. Formes de collision.md",
     "7. Simulation physique.md",
     "6. Matériaux visuels.md",
